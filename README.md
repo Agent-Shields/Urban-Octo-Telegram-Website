@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Project
 
 ## Purpose
 Challenge project designed to build my refactoring skills, bolster my understanding of website accessibility 
@@ -8,7 +8,9 @@ Challenge project designed to build my refactoring skills, bolster my understand
 *CSS
 
 ## Website
-https://Agent-Shields.github.io/Urban-Octo-Telegram-Website
+https://agent-shields.github.io/Urban-Octo-Telegram-Website/
 
 ## Contribution
 Made with ❤️ by Johnathan Shields 
+
+### &copy; 2019 Horiseon Social Solution Services, Inc.
