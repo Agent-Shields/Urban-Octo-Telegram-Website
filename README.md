@@ -12,7 +12,7 @@ https://agent-shields.github.io/Urban-Octo-Telegram-Website/
 
 ## Screenshot
 These images outline what you should see when you open the website link above after you've cloned this repo: 
-(assets/images/Horiseon webpage upper half.PNG?raw=true "Upper half of webpage")
+![image](assets/images/Horiseon webpage upper half.PNG?raw=true "Upper half of webpage")
 (assets/images/Horiseon webpage lower half.PNG?raw=true "Lower half of webpage")
 
 ## Contribution
