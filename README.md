@@ -12,5 +12,3 @@ https://Agent-Shields.github.io/Urban-Octo-Telegram-Website
 
 ## Contribution
 Made with ❤️ by Johnathan Shields 
-
-### ©️2019 Run Buddy, Inc 
