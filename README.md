@@ -11,7 +11,9 @@ Challenge project designed to build my refactoring skills, bolster my understand
 https://agent-shields.github.io/Urban-Octo-Telegram-Website/
 
 ## Screenshot
-The webpage should look like the following image: placeholder text 
+These images outline what you should see when you open the website link above after you've cloned this repo: 
+(assets/images/Horiseon webpage upper half.PNG?raw=true "Upper half of webpage")
+(assets/images/Horiseon webpage lower half.PNG?raw=true "Lower half of webpage")
 
 ## Contribution
 Made with ❤️ by Johnathan Shields 
